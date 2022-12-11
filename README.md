@@ -8,6 +8,7 @@ _Please do not edit the datapack files and claim as your own. Also (Although I c
 
 ### Welcome!
 [For crafts click here!](docs/crafts.md)
+
 [For the list of items and armor click here!](docs/whats-included.md)
 
 
